@@ -1,9 +1,9 @@
-### Hi there 👋
+### Eai visitante 👋
 
 <!--
 **teamappwebufersa20202/teamappwebufersa20202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Essa conta é unicamente para inserir os repositórios de nossos projetos de disciplina, e onde guardaremos projetos exemplos que possamos consultar depois.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
